@@ -1,0 +1,40 @@
+<html>
+
+<cabeça>
+  
+   <title> curriculo escolar </title>
+ 
+</head>
+ 
+<corpo>
+
+<font color="blue" size="16"><b><i>Curriculo</i></b></font><br>
+
+<font size="5">nome:</font> <b>Arthur Cunha Ferreira De Andrade</b><br><br>
+
+<font size="5">data de nascimento:</font><b>02/03/2008</b><br><br>
+
+<font size="5">E-mail:/font><B>arthurcunhadeandrade@gmail.com</b><br><br>
+
+<font size="5">prontuario:<?font><b>CB3024253</b><br><br>
+
+<font size="5">escolas cursadas:</font>
+,ul>
+<li><b>UME Jayme João Olcese-1 ano ao 2 ano</b></li>
+<li><b>Ume Dilce Ferreira Campos-3 ano</b></li>
+<li><b>Ume Jayme João OLcese-4 ano ao 5 ano</b></li>
+<li><b>E.E. Julio Conceição-6 ano ao 7 ano</b></li>
+<li><b>E.E. Lincon Feliciano-8 ano ao 9 ano</b></li>
+
+<font color="pink" size="14"><b><i>Hobbies:</i></b></font><br>
+
+<font size"5"><b><li>jogar</li>
+<li>treinar</li>
+<li>lutar</li>
+<li>mexer no celular</li>
+<li>dormir</li>
+
+ </body>
+
+
+ </html>
